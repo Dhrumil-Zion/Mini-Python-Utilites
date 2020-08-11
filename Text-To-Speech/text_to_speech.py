@@ -1,7 +1,7 @@
 from gtts import gTTS
 
-file = open("input_text")
+file = open("mihir")
 text_input = file.read()
 language = "en"
 ouput_audio = gTTS(text=text_input, lang=language, slow=False)
-ouput_audio.save("demo.mp3")
+ouput_audio.save("mihir.mp3")
