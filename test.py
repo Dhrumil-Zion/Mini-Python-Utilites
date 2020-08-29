@@ -1,0 +1,5 @@
+n_english = int(input())
+stu_eng = set(map(int, input().split()))
+n_french = int(input())
+stu_french = set(map(int, input().split()))
+print(len(stu_eng.union(stu_french)))
