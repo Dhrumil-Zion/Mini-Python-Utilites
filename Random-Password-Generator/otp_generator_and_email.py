@@ -9,8 +9,8 @@ otp = random.randrange(100000, 1000000)
 # bs pachi form mathi aaavse ane compare kari ne mail sen kerje aagad
 
 
-EMAIL_ADDRESS = "shoppyapp123@gmail.com"  # your email-id goes here
-EMAIL_PASSWORD = "shoppy112334556app@gmail.com"  # your password goes here
+EMAIL_ADDRESS = ""  # your email-id goes here
+EMAIL_PASSWORD = ""  # your password goes here
 
 msg = EmailMessage()
 msg['Subject'] = 'testing purpose'
