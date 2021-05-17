@@ -8,4 +8,4 @@ img = Image.open(image_name)
 mywidth = img.size[0]
 myheight = img.size[1]
 img = img.resize((mywidth, myheight), PIL.Image.ANTIALIAS)
-img.save("resized_2.jpeg")
+img.save("resized_3.jpeg")
