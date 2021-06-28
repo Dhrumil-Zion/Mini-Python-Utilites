@@ -9,3 +9,8 @@ Mini-Python-Utilites
 - Random Password Generator
 - Sending Email
 - Vaccine Slot Notifier
+- Text to Speech
+- Text to Pdf
+- YouTube Downloader
+- Currency Convertor
+- Weather Forecasting
