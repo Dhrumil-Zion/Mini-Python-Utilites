@@ -5,3 +5,7 @@ Mini-Python-Utilites
 - Image Compression
 - Deleting Duplicates
 - Image Grayscaling
+- Random Jokes
+- Random Password Generator
+- Sending Email
+- Vaccine Slot Notifier
