@@ -14,3 +14,10 @@
 - [YouTube Downloader](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Youtube%20Downloader)
 - [Currency Convertor](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Currency-Converter)
 - [Weather Forecasting](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Weather%20Forcasting)
+- [Shorten Links](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Shorten-Link)
+- [Whatsapp Automation](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/WhatsApp%20Automation)
+<!-- - []() -->
+<!-- - []()
+- []()
+- []()
+- []() -->
