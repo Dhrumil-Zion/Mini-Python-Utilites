@@ -11,6 +11,6 @@
 - [Vaccine Slot Notifier](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Cowin-Notifier)
 - [Text to Speech](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Text-To-Speech)
 - [Text to Pdf](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Text-Pdf)
-- YouTube Downloader
-- Currency Convertor
-- Weather Forecasting
+- [YouTube Downloader](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Youtube%20Downloader)
+- [Currency Convertor](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Currency-Converter)
+- [Weather Forecasting](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Weather%20Forcasting)
