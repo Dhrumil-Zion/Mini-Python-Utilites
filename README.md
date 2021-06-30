@@ -16,8 +16,7 @@
 - [Weather Forecasting](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Weather%20Forcasting)
 - [Shorten Links](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/Shorten-Link)
 - [Whatsapp Automation](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/tree/master/WhatsApp%20Automation)
-<!-- - []() -->
-<!-- - []()
-- []()
-- []()
-- []() -->
+- [Watermark Image](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/blob/master/Playing-With-Images/give_watermark.py)
+- [Blur Image](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/blob/master/Playing-With-Images/make_blur.py)
+- [Give Password To Pdf](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/blob/master/Playing-With-Pdfs/give_password_to_pdfs.py)
+- [Merge Pdf](https://github.com/Dhrumil-Zion/Mini-Python-Utilites/blob/master/Playing-With-Pdfs/merge_pdfs.py)
